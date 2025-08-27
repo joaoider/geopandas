@@ -1,0 +1,33 @@
+# 📦 Dependências para o Tutorial Profissional de GeoPandas
+# =========================================================
+
+# Biblioteca principal para análise geoespacial
+geopandas>=0.13.0
+
+# Bibliotecas fundamentais
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualização
+matplotlib>=3.5.0
+
+# Geometrias espaciais
+shapely>=1.8.0
+
+# Projeções de coordenadas
+pyproj>=3.0.0
+
+# Leitura/escrita de arquivos geoespaciais
+fiona>=1.8.0
+
+# Para desenvolvimento (opcional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Para testes (opcional)
+pytest>=6.0.0
+pytest-cov>=3.0.0
+
+# Para formatação de código (opcional)
+black>=22.0.0
+flake8>=4.0.0
